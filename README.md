@@ -26,16 +26,16 @@
 </p> -->
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaquewasim&layout=compact&langs_count=8 alt="AfaqueWasim" />
-</p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=afaquewasim&show_icons=true" alt="AfaqueWasim" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afaquewasim&layout=compact" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaquewasim&layout=compact&langs_count=8 alt="AfaqueWasim" />
+</p>
 <h2 align="center">Connect with me</h2>
 <div align="center">  
   <a href="https://github.com/afaquewasim" target="_blank">
