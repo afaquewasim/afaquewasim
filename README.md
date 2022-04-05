@@ -3,7 +3,7 @@
 <h3 align="center">I am a 2nd year student.</h1>
 <ul align="center">
   <li>🔭 I’m currently working on my skills .</li>
-  <li>🌱 Exploring the field of web development .</li>
+  <li>🌱 Exploring the field of Machine Learning .</li>
   <li>👯 I’m looking to collaborate on awesome projects .</li>
   <li>💬 Ask me about things you want I will definitely help you if I can .</li>
  </ul>
