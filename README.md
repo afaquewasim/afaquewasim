@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3rd year student.<br>I’m currently working on my skills .<br>Exploring the field of Web Development and Machine Learning .<br>I’m looking to collaborate on awesome projects .<br>Ask me about things you want I will definitely help you if I can .
+I am a 4th year student.<br>I’m currently working on my skills .<br>Exploring the field of Web Development and Machine Learning .<br>I’m looking to collaborate on awesome projects .<br>Ask me about things you want I will definitely help you if I can .
 
 
 ## 🌐 Socials:
